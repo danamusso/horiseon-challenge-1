@@ -7,7 +7,7 @@ This is a landing page for a company offering SEO services. The HTML and CSS she
 
 This project was to test our newly learned skills from Module 1 and to get accustomed to creating organized HTML and CSS files.
 
-[Project Website] (file:///Users/danamusso/Desktop/class/Challenge-1/index.html)]
+[Project Website] (https://github.com/danamusso/horiseon-challenge-1.git)
 
 [Project Repository] (git@github.com:danamusso/horiseon-challenge-1.git)
 
